@@ -1,3 +1,4 @@
+#https://github.com/ONETAPL3G3ND
 import speech_recognition as sr
 import pyaudio
 
